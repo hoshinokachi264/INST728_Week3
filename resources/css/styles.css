@@ -1,48 +1,66 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
 /*HEADER*/
 
 header {
     border-bottom: 1px solid gray;
     background-color: white;
     padding: 20px;
-    
 }
 
 header img {
     padding: 10px;
 }
 
-/*MAIN CONTENT*/
+/*CONTENT*/
 
 .container {
     background-color: brown;
     width: 100%;
-    margin: auto;
+
+}
+
+/*SIDE MENU*/
+
+#sidemenu {
+    padding: 20px;
+    height: 100%;
+    width: 20%;
+    background-color: brown;
+    float: left;
     display: inline-block;
 }
 
-                /*SIDE MENU*/
-
-#sidemenu {
-  
-padding: 10px;
-}
-
-#sidemenu a:link {
+#sidemenu a {
     color: lightgoldenrodyellow;
+
 }
+
+/*MAIN CONTENT*/
 
 .mainContainer {
     background-color: beige;
-  
+    height: 100%;
+    width: 80%;
+    display: inline-block;
+}
+
+.please {
+    background-color: ;
     padding: 20px;
 }
 
-.form {
-    background-color: antiquewhite;
-  
+#form {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
 }
 
 /*FOOTER*/
+
 footer {
     border-top: 1px solid gray;
     background-color: white;

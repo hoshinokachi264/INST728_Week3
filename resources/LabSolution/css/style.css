@@ -1,0 +1,32 @@
+body, td
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		font-size:"8pt";
+		color:"Black";
+		text-align:justify;
+		line-height:11pt;
+	}
+input,select
+	{
+	    BORDER-RIGHT: black 1px solid;
+		BORDER-TOP: black 1px solid;
+		FONT-SIZE: 8pt;
+		BORDER-LEFT: black 1px solid;
+		COLOR: Black;
+		BORDER-BOTTOM: black 1px solid;
+		FONT-FAMILY: 'Arial, Verdana, Helvetica, sans-serif'	
+    }	
+	
+.mainText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+.mainText-small {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.mailText-large {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+}

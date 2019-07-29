@@ -1,0 +1,228 @@
+body, td
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		font-size:"7pt";
+		color:"Black";
+		text-align:justify;
+		line-height:11pt;
+	}
+	
+	input,select
+	{
+	    BORDER-RIGHT: black 1px solid;
+		BORDER-TOP: black 1px solid;
+		FONT-SIZE: 8pt;
+		BORDER-LEFT: black 1px solid;
+		COLOR: Black;
+		BORDER-BOTTOM: black 1px solid;
+		FONT-FAMILY: 'Arial, Verdana, Helvetica, sans-serif'
+	
+		}
+	
+	
+//a{text-decoration:none;}
+
+.smaller {font-family:"arial";font-size:9px;color:"#4568A9";}
+.head{font-family:"verdana,arial";font-size:11pt;color:"#4568A9";font-weight:bold;}
+.selector {font-family:"arial";font-size:11px;color:"#4568A9";}
+
+
+
+
+a:link{font-family:"arial";color:#000099;font-size:8pt;text-decoration:none;text-align:none;} 
+a:visited{font-family:"arial";color:#000099;font-size:8pt;text-decoration:none;text-align:none;} 
+a:hover{font-family:"arial";color:#000000;font-size:8pt;text-decoration:none;text-align:none;}
+.b{font-family:"Arial";font-size:"9pt"; color:"black";border-color:gray;font-weight:bold;}
+.small:link{font-family:"arial";color:#3300FF;font-size:8pt;text-decoration:none;text-align:none;} 
+.small:visited{font-family:"arial";color:#3300FF;font-size:8pt;text-decoration:none;text-align:none;} 
+.small:hover{font-family:"arial";color:#000000;font-size:8pt;text-decoration:none;text-align:none;} 
+
+.toplinkreport:link{font-family:"arial";color:#808000;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+.toplinkreport:visited{font-family:"arial";color:#808000;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+.toplinkreport:hover{font-family:"arial";color:#000000;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+
+
+.toplink:link{font-family:"arial";color:#808000;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+.toplink:visited{font-family:"arial";color:#808000;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+.toplink:hover{font-family:"arial";color:#FFFFFF;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+
+.menu:link{font-family:"arial";color:#000000;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+.menu:visited{font-family:"arial";color:#000000;font-size:8.5pt;text-decoration:none;text-align:none; font-weight:"bold";} 
+.menu:hover{font-family:"arial";color:#ffffff;font-size:8.5pt;text-decoration:underline;text-align:none; font-weight:"bold";} 
+
+//a{text-decoration:none;}
+
+.date
+	{ 
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		font-size:7.5pt;
+		text-decoration:underline;
+		font-weight:"bold"; 
+		color: #000000;
+	}
+
+.small
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		font-size:9pt;
+		color:"#000000";
+		font-weight:normal;
+		line-height:12pt;
+	}
+
+.smalltext
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		font-size:8pt;
+		color:"#806B28";
+		font-weight:normal;
+		line-height:8pt;
+	}
+
+
+.tbltitle
+	{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+.mainText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+a:link
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#0000FF;
+		font-size:9pt;
+		text-decoration:underline;
+		text-align:none;
+		font-weight:none;
+	}
+	
+a:visited
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#0000FF;
+		font-size:9pt;
+		text-decoration:underline;
+		text-align:none;
+		font-weight:none;
+	}
+	
+a:active
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#0000FF;
+		font-size:9pt;
+		text-decoration:underline;
+		text-align:none;
+		font-weight:none;
+	}
+
+a:hover
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#aa0000;
+		font-size:9pt;
+		text-decoration:underline;
+		text-align:none;
+		font-weight:none;
+	}
+
+
+a.side:link
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#003063;
+		font-size:8pt;
+		text-decoration:none;
+		text-align:none;
+		font-weight:none;
+	}
+	
+a.side:visited
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#003063;
+		font-size:8pt;
+		text-decoration:none;
+		text-align:none;
+		font-weight:none;
+	}
+	
+a.side:active
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#003063;
+		font-size:8pt;
+		text-decoration:none;
+		text-align:none;
+		font-weight:none;
+	}
+
+a.side:hover
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#aa0000;
+		font-size:8pt;
+		text-decoration:underline;
+		text-align:none;
+		font-weight:none;
+	}
+	
+a.small:link
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#003063;
+		font-size:8pt;
+		text-decoration:none;
+		text-align:none;
+		font-weight:none;
+	}
+	
+a.small:visited
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#003063;
+		font-size:8pt;
+		text-decoration:none;
+		text-align:none;
+		font-weight:none;
+	}
+	
+a.small:active
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#003063;
+		font-size:8pt;
+		text-decoration:none;
+		text-align:none;
+		font-weight:none;
+	}
+
+a.small:hover
+	{
+		font-family:"Arial, Verdana, Helvetica, sans-serif";
+		color:#FFFFFF;
+		font-size:8pt;
+		text-decoration:underline;
+		text-align:none;
+		font-weight:none;
+	}
+
+
+
+.list {  font-family:"arial"; font-size: 10px; text-decoration: none  }
+.forms {  font-size: 10px; font-family:"arial"; }
+
+.dropdown { position: absolute; color:#000000; font-size:"8pt"; width:400px; height:8px; border: #ffffff; border-style: solid; border-top-width:1px; border-right-width:1px; border-bottom-width:1px; border-left-width:1px; background-color: #DCDCB8; layer-background-color: #ffffff; top:0px; z-index:1; visibility: hidden ;}
+
+
+.drophead { color:#000000; font: bold 10px Arial, Helvetica, sans-serif; text-decoration:none }
+.dropitem { text-decoration:none; color:#000000; font: 10px Arial, Helvetica, sans-serif;}
+.drophead:hover { color:#000000; text-decoration:none }
+.dropitem:hover { color:#000000;text-decoration:none}
+ -->
