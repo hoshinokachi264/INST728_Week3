@@ -1,0 +1,52 @@
+/*HEADER*/
+
+header {
+    border-bottom: 1px solid gray;
+    background-color: white;
+    padding: 20px;
+    
+}
+
+header img {
+    padding: 10px;
+}
+
+/*MAIN CONTENT*/
+
+.container {
+    background-color: brown;
+    width: 100%;
+    margin: auto;
+    display: inline-block;
+}
+
+                /*SIDE MENU*/
+
+#sidemenu {
+  
+padding: 10px;
+}
+
+#sidemenu a:link {
+    color: lightgoldenrodyellow;
+}
+
+.mainContainer {
+    background-color: beige;
+  
+    padding: 20px;
+}
+
+.form {
+    background-color: antiquewhite;
+  
+}
+
+/*FOOTER*/
+footer {
+    border-top: 1px solid gray;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}

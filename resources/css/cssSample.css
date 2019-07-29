@@ -1,0 +1,54 @@
+nav {
+    background-color: beige;
+    width: 100%;
+}
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    text-align: center;
+
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    padding-right: 300px;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    background-color: bisque;
+    padding: 10px;
+}
+
+.headerContainer header {
+    background-color: white;
+    text-transform: capitalize;
+
+}
+
+nav a:hover {
+    background-color: white;
+}
+.mainContainer {
+    background-color: aquamarine;
+    height: 100%;
+}
+#content {
+    background-color: white;
+    width: 60%;
+    float: left;
+    height: auto;
+    padding-bottom: 600px;
+}
+#sideMenu {
+    width: 40%;
+    float: right;
+    background-color: aliceblue;
+    height: auto;
+}
